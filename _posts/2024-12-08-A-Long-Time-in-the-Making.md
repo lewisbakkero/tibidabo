@@ -8,7 +8,8 @@ tags: [history,technology,precedents,Merkle,]
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 </head>
 
-![Spanish 1588 Dollar](https://lewisbakkero.github.io/tibidabo/images/realde8.jpg)
+<img src="https://lewisbakkero.github.io/tibidabo/images/realde8.jpg" alt="Spanish 1588 Dollar" width="300"/>
+
 By <a href="//commons.wikimedia.org/wiki/User:Hispalois" title="User:Hispalois">Hispalois</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63878637">Link</a>
 
 [If you'd rather listen, here is a podcast of this blog entry](https://lewisbakkero.github.io/tibidabo/audios/Cryptocurrencys_Genesis_A_Technological_History.mp3)
@@ -16,8 +17,8 @@ By <a href="//commons.wikimedia.org/wiki/User:Hispalois" title="User:Hispalois">
 [If you just have 1 min, have a look at the summary table at the bottom](#summary-of-precursor-technologies)
 
 In the realm of digital currencies, we often focus on the dazzling present and the promising future. However, to truly appreciate the cryptocurrency revolution, we must unravel the threads of its past. Join us on a chronological journey through the precursor technologies that laid the foundation for today's blockchain marvels.
-1979: Merkle's Tree of Knowledge
 
+### 1979: Merkle's Tree of Knowledge
 Our story begins in 1979 when Ralph Merkle planted a seed that would grow into a crucial component of blockchain technology: the Merkle Tree. Imagine a data structure so efficient that it could verify the integrity of vast datasets in the blink of an eye. Merkle's creation did just that, allowing for quick and secure verification of data integrity in large structures. Little did Merkle know that his tree would one day form the backbone of every Bitcoin transaction.
 
 ### 1985: The Elliptic Revolution
