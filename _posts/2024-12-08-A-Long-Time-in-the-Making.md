@@ -8,8 +8,7 @@ tags: [history,technology,precedents,Merkle,]
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 </head>
 
-![Spanish Dollar - accepted in the US until 1857](./images/realde8.jpg)
-
+![Spanish Dollar - accepted in the US until 1857](/images/realde8.jpg)
 By <a href="//commons.wikimedia.org/wiki/User:Hispalois" title="User:Hispalois">Hispalois</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63878637">Link</a>
 
 [If you'd rather listen, here is a podcast of this blog entry](https://lewisbakkero.github.io/tibidabo/audios/Cryptocurrencys_Genesis_A_Technological_History.mp3)
