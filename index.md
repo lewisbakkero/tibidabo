@@ -1,6 +1,9 @@
 ---
 title: Crypto Deep Dives
 ---
+<head>
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+</head>
 
 **Unveiling the Technical Magic Behind Cryptocurrencies**
 
@@ -21,6 +24,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 **Join our Community:**
 
 * **Subscribe to our Newsletter:** Receive the latest updates and exclusive content directly to your inbox.
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
+
 * **Follow us on Social Media:** Connect with us on Twitter, LinkedIn, and Reddit for real-time discussions and news.
 * **Contribute to Our Blog:** Share your knowledge and insights by writing guest posts.
 

@@ -4,6 +4,10 @@ date: 2024-12-08
 tags: [history,technology,precedents,Merkle,]
 ---
 
+<head>
+<link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
+</head>
+
 [If you'd rather listen, here is a podcast of this blog entry](https://lewisbakkero.github.io/tibidabo/audios/Cryptocurrencys_Genesis_A_Technological_History.mp3)
 
 [If you just have 1 min, have a look at the summary table at the bottom](#summary-of-precursor-technologies)
@@ -45,3 +49,6 @@ These technologies, woven together over two decades, created the rich tapestry f
 | Bit Gold                            | 1998 | Unforgeable scarcity, PoW chain               | Vulnerable to Sybil attacks        | Nick Szabo                        |
 | Proof of Work (Term)                | 1999 | Consensus mechanism, spam prevention          | High energy consumption            | Markus Jakobsson & Ari Juels      |
 | Cryptographically Secured Chains    | 2000 | Chain traceability, authenticity verification | Theoretical concept                | Stefan Konst                      |
+
+
+<a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
