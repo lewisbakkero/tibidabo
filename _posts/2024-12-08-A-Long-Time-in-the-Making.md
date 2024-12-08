@@ -4,7 +4,7 @@ date: 2024-12-08
 tags: [history,technology,precedents,Merkle,]
 ---
 
-[If you'd rather listen, here is a podcast of this blog entry](/audios/Cryptocurrencys_Genesis_A_Technological_History.mp3)
+[If you'd rather listen, here is a podcast of this blog entry](https://lewisbakkero.github.io/tibidabo/audios/Cryptocurrencys_Genesis_A_Technological_History.mp3)
 
 [If you just have 1 min, have a look at the summary table at the bottom](#summary-of-precursor-technologies)
 
