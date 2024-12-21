@@ -8,6 +8,8 @@ tags: [transactions,technology,creation,Merkle,]
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 </head>
 
+[If you'd rather listen, here is a podcast of this blog entry](https://lewisbakkero.github.io/tibidabo/audios/Decoding_Crypto_Transaction_Creation.mp3)
+
 
 [In a previous entry](https://lewisbakkero.github.io/tibidabo/audios/Cryptocurrencys_Genesis_A_Technological_History.mp3), we looked back at how blockchains have been cooking over quite some time. Here, we demistify what is going on in blockchains today. 
 
