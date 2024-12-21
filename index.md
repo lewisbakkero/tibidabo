@@ -20,7 +20,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 **Popular Posts:**
 
 [A Long Time in the Making](https://lewisbakkero.github.io/tibidabo/2024/12/08/A-Long-Time-in-the-Making.html)
-[BlockChain Transaction Creation](https://lewisbakkero.github.io/tibidabo/2024/12/23/Decoding-Trasaction-Creation.html)
+
+[BlockChain Transaction Creation](https://lewisbakkero.github.io/tibidabo/2024/12/21/Decoding-Transaction-Creation.html)
 
 **Join our Community:**
 
