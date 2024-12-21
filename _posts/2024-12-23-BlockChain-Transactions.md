@@ -1,5 +1,5 @@
 ---
-title: "Decoding Crypto: Transaction Creation"
+title: "Decoding Transaction Creation"
 date: 2024-12-23
 tags: [transactions,technology,creation,Merkle,]
 ---
