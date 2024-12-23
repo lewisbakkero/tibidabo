@@ -1,7 +1,7 @@
 ---
 title: "Network Propagation"
 date: 2024-12-22
-tags: [history,technology,precedents,Merkle,]
+tags: [p2p,network,propagation,]
 ---
 
 <head>
