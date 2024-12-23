@@ -23,6 +23,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [BlockChain Transaction Creation](https://lewisbakkero.github.io/tibidabo/2024/12/21/Decoding-Transaction-Creation.html)
 
+[Network Propagation](https://lewisbakkero.github.io/tibidabo/2024/12/22/Network-Propagation.html)
+
 **Join our Community:**
 
 * **Subscribe to our Newsletter:** Receive the latest updates and exclusive content directly to your inbox.
