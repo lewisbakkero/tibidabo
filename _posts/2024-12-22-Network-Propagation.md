@@ -8,7 +8,7 @@ tags: [history,technology,precedents,Merkle,]
 <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="/feed.xml">
 </head>
 
-[If you'd rather listen, here is a podcast of this blog entry](https://lewisbakkero.github.io/tibidabo/audios/Network_Propagation.mp3)
+[If you'd rather listen, here is a podcast of this blog entry](https://lewisbakkero.github.io/tibidabo/audios/Blockchain_Network_Propagation.mp3)
 
 [In a previous entry](https://lewisbakkero.github.io/tibidabo/audios/Decoding_Crypto_Transaction_Creation.mp3), we learned about how transactions get created. Not it is time to see how they are propagated (similar to that pizza you ordered moving from the pizzeria to your home).
 
