@@ -27,6 +27,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Node Validation](https://lewisbakkero.github.io/tibidabo/2024/12/23/Node-Validation.html)
 
+[Mempool](https://lewisbakkero.github.io/tibidabo/2024/12/26/Mempool.html)
+
 **Join our Community:**
 
 * **Subscribe to our Newsletter:** Receive the latest updates and exclusive content directly to your inbox.
