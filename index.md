@@ -25,6 +25,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Network Propagation](https://lewisbakkero.github.io/tibidabo/2024/12/22/Network-Propagation.html)
 
+[Node Validation](https://lewisbakkero.github.io/tibidabo/2024/12/23/Node-Validation.html)
+
 **Join our Community:**
 
 * **Subscribe to our Newsletter:** Receive the latest updates and exclusive content directly to your inbox.
