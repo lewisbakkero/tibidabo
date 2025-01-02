@@ -33,6 +33,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Consensus2](https://lewisbakkero.github.io/tibidabo/2025/01/02/Consensus2.html)
 
+[Timeline](https://lewisbakkero.github.io/tibidabo/2025/01/03/Timeline.html)
+
 **Join our Community:**
 
 * **Subscribe to our Newsletter:** Receive the latest updates and exclusive content directly to your inbox.
