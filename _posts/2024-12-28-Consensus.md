@@ -44,6 +44,8 @@ But here's the kicker: there are many ways for these digital gossips to reach an
 
 This table is like a menu at our digital coffee shop, offering different "flavors" of consensus. Some are secure but slow (like ordering a complicated pour-over), while others are fast but potentially less secure (like grabbing a quick espresso).
 
+The 3 main flavors are: Proof-based, Voting-based, and Hybrid/Alternative, highlighting the diverse approaches to achieving consensus in distributed systems. As evident from Table \ref{tab:consensus_protocols}, each consensus protocol comes with its own set of advantages and drawbacks. Proof-based mechanisms like Proof of Work (PoW) and Proof of Stake (PoS) offer high security and decentralization but face challenges in energy efficiency and scalability. Voting-based protocols such as Practical Byzantine Fault Tolerance (PBFT) and Federated Byzantine Agreement (FBA) provide faster transaction finality but may sacrifice some degree of decentralization. The Hybrid/Alternative category showcases innovative approaches that attempt to balance the trade-offs inherent in consensus mechanisms. 
+
 So, the next time you hear about blockchain consensus, remember the gossipy computers in the digital coffee shop, trying to agree on the latest news. It might sound complicated, but it's really just a high-tech version of deciding where to eat with friends – just with higher stakes (and hopefully less arguing).
 
 
