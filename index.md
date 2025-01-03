@@ -35,12 +35,26 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Timeline](https://lewisbakkero.github.io/tibidabo/2025/01/02/Timeline.html)
 
+[Overview](https://lewisbakkero.github.io/tibidabo/2025/01/03/Overview.html)
+
+<!-- [Performance](https://lewisbakkero.github.io/tibidabo/2025/01/04/Performance.html)
+
+[Security](https://lewisbakkero.github.io/tibidabo/2025/01/05/Security.html)
+
+[Utility](https://lewisbakkero.github.io/tibidabo/2025/01/11/Utility.html)
+
+Acquisitions by top 10 non tethered coins 
+
+Regulation -->
+
+
+
 **Join our Community:**
 
 * **Subscribe to our Newsletter:** Receive the latest updates and exclusive content directly to your inbox.
 <a class="btn btn-rss" href="/feed.xml" target="_blank">RSS</a>
 
-* **Follow us on Social Media:** Connect with us on Twitter, LinkedIn, and Reddit for real-time discussions and news.
+<!-- * **Follow us on Social Media:** Connect with us on Twitter, LinkedIn, and Reddit for real-time discussions and news. -->
 * **Contribute to Our Blog:** Share your knowledge and insights by writing guest posts.
 
 
