@@ -37,15 +37,17 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Overview](https://lewisbakkero.github.io/tibidabo/2025/01/03/Overview.html)
 
-<!-- [Performance](https://lewisbakkero.github.io/tibidabo/2025/01/04/Performance.html)
+[Performance](https://lewisbakkero.github.io/tibidabo/2025/01/04/Performance.html)
 
-[Security](https://lewisbakkero.github.io/tibidabo/2025/01/05/Security.html)
+<!-- [Security](https://lewisbakkero.github.io/tibidabo/2025/01/05/Security.html)
 
 [Utility](https://lewisbakkero.github.io/tibidabo/2025/01/11/Utility.html)
 
+[Regulation](https://lewisbakkero.github.io/tibidabo/2025/01/12/Regulation.html)
+
 Acquisitions by top 10 non tethered coins 
 
-Regulation -->
+ -->
 
 
 
