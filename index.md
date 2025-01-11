@@ -41,9 +41,9 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Security](https://lewisbakkero.github.io/tibidabo/2025/01/05/Security.html)
 
-<!-- [Utility](https://lewisbakkero.github.io/tibidabo/2025/01/11/Utility.html)
+[Utility](https://lewisbakkero.github.io/tibidabo/2025/01/11/Utility.html)
 
-[Regulation](https://lewisbakkero.github.io/tibidabo/2025/01/12/Regulation.html)
+<!-- [Regulation](https://lewisbakkero.github.io/tibidabo/2025/01/12/Regulation.html)
 
 [Companies](https://lewisbakkero.github.io/tibidabo/2025/01/18/Companies.html)
 
