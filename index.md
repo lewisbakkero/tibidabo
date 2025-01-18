@@ -45,11 +45,13 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Regulation](https://lewisbakkero.github.io/tibidabo/2025/01/12/Regulation.html)
 
-<!-- [Companies](https://lewisbakkero.github.io/tibidabo/2025/01/18/Companies.html)
+[Companies](https://lewisbakkero.github.io/tibidabo/2025/01/18/Companies.html)
 
-[Acquisitions](https://lewisbakkero.github.io/tibidabo/2025/01/19/Acquisitions.html)
+<!-- [Acquisitions](https://lewisbakkero.github.io/tibidabo/2025/01/19/Acquisitions.html)
 
+Technical vs fundamental analysis (valuation/adoption is not all to fundamentals)
 
+Arbitrage and volatility
 
  -->
 
