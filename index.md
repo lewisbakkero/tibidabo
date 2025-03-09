@@ -51,7 +51,7 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Utility2](https://lewisbakkero.github.io/tibidabo/2025/02/15/Utility2.html)
 
-[Strategic Reserve](https://lewisbakkero.github.io/tibidabo/2025/03/09/Utility2.html)
+[Strategic Reserve](https://lewisbakkero.github.io/tibidabo/2025/03/09/Strategic-Reserve.html)
 
 <!-- Technical vs fundamental analysis (valuation/adoption is not all to fundamentals)
 
