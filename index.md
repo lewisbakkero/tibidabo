@@ -19,6 +19,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 **Popular Posts:**
 
+# Technical
+
 [A Long Time in the Making](https://lewisbakkero.github.io/tibidabo/2024/12/08/A-Long-Time-in-the-Making.html)
 
 [BlockChain Transaction Creation](https://lewisbakkero.github.io/tibidabo/2024/12/21/Decoding-Transaction-Creation.html)
@@ -41,6 +43,10 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Security](https://lewisbakkero.github.io/tibidabo/2025/01/05/Security.html)
 
+[Quantum Encryption](https://lewisbakkero.github.io/tibidabo/2025/03/18/Quantum-Resistance.html)
+
+# Strategy
+
 [Utility](https://lewisbakkero.github.io/tibidabo/2025/01/11/Utility.html)
 
 [Regulation](https://lewisbakkero.github.io/tibidabo/2025/01/12/Regulation.html)
@@ -52,6 +58,8 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 [Utility2](https://lewisbakkero.github.io/tibidabo/2025/02/15/Utility2.html)
 
 [Strategic Reserve](https://lewisbakkero.github.io/tibidabo/2025/03/09/Strategic-Reserve.html)
+
+
 
 <!-- Technical vs fundamental analysis (valuation/adoption is not all to fundamentals)
 
