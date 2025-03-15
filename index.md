@@ -43,7 +43,7 @@ Welcome to **Crypto Deep Dive**, your go-to resource for understanding the intri
 
 [Security](https://lewisbakkero.github.io/tibidabo/2025/01/05/Security.html)
 
-[Quantum Encryption](https://lewisbakkero.github.io/tibidabo/2025/03/17/Quantum-Resistance.html)
+[Quantum Encryption](https://lewisbakkero.github.io/tibidabo/2025/03/15/Quantum-Resistance.html)
 
 # Strategy
 
